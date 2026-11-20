@@ -42,6 +42,11 @@ flowchart LR
 
 **Stack:** TypeScript · Fastify · Drizzle · Zod · Postgres/pgvector · React · Railway · Supabase
 
+### 📦 Recently shipped in six7swe
+
+<!-- SHIPPED:START -->
+<!-- SHIPPED:END -->
+
 ### 🛠️ Also building
 
 | Repo | What it is |
